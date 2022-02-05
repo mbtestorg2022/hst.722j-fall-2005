@@ -38,10 +38,39 @@ Grade and Assignments
 
 Your grade will be based approximately on the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper Presentations, Discussion Leading and Class Participation | 65% |
-| Written Topic Proposal and Oral Topic Presentation | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper Presentations, Discussion Leading and Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+65%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Topic Proposal and Oral Topic Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
