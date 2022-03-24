@@ -262,7 +262,7 @@ Middlebrooks, J. C, L. Xu, S. Furukawa, and E. A. Macpherson. "Cortical neurons 
 
 Borst, A., and F. E. Theunissen. "Information theory and neural coding." _Nat Neurosci_ 2 (1999): 947-57. (A more detailed introduction to information theory than that given by Buracas and Albright.)
 
-Johnson, D. H. "Dialogue concerning neural coding and information theory." August 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-ece.rice.edu/~dhj/dialog.pdf)) (Unpublished document.) (Discusses the difficulties of applying Shannon information theory to studies of neural coding.)
+Johnson, D. H. "Dialogue concerning neural coding and information theory." August 2003. ([PDF](http://www-ece.rice.edu/~dhj/dialog.pdf)) (Unpublished document.) (Discusses the difficulties of applying Shannon information theory to studies of neural coding.)
 
 Hsu, A., S. M. Woolley, T. E. Fremouw, and F. E. Theunissen. "Modulation power and phase spectrum of natural sounds enhance neural encoding performed by single auditory neurons." _J Neurosci_ 24 (2004): 9201-11. (Application of the information theoretic approach outlined in "Spikes" to the auditory system of the song bird.)
 

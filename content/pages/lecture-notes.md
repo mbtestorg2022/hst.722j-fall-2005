@@ -87,7 +87,7 @@ Brown
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Neuroimaging (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/7_melcher_handot))
+Neuroimaging ([PDF]({{< baseurl >}}/resources/7_melcher_handot))
 {{< tdclose >}}
 {{< tdopen >}}
 Melcher
