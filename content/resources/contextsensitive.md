@@ -6,6 +6,7 @@ description: This resource provides information on the topic of long lasting mod
   auditory temporal context, suggested topic papers and references.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/7b27d730ddbb95208f07ac76d746be4e_contextsensitive.pdf
 file_type: application/pdf
+parent_uid: 652ba4c7-27a6-1eb6-e79b-93e3ccbb39bd
 resourcetype: Document
 title: contextsensitive.pdf
 uid: 7b27d730-ddbb-9520-8f07-ac76d746be4e
